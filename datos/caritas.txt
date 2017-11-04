@@ -1,0 +1,5 @@
+La carita feliz se representa como :)
+La carita triste se representa como :(
+La carita sorprendida se representa como :0
+La carita de beso se representa como :*
+La carita de pacman se representa como :v
